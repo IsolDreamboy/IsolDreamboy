@@ -1,2 +1,2 @@
 # ai-for-the-winning
-Projeto focado para competir diretamente com o https://github.com/666ghj/BettaFish, projeto esse que incentivou a nossa entrada na área de IA/ML.
+Projeto focado no mercado financeiro  e estudo de ações para análise preditiva com IA, buscando o melhor investimento para se adquirir.
