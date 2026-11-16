@@ -1,8 +1,8 @@
 <div align="center">
 
-  <!-- Banner Tipográfico Animado (Duração: 2500ms) -->
+  <!-- Banner Tipográfico Animado (Minimalista & Dark Mode) -->
   <a href="https://github.com/IsolDreamboy">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=1200&color=58A6FF&center=true&vCenter=true&multiline=true&width=720&height=85&lines=Hi%2C+I'm+Edicarlos+Filho+(IsolDreamboy);Backend+%26+AI%2FML+Systems+Engineer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&multiline=true&width=720&height=85&lines=Hi%2C+I'm+Edicarlos+Filho+(IsolDreamboy);Backend+%26+AI%2FML+Systems+Engineer" alt="Typing SVG" />
   </a>
 
   <p>
@@ -18,8 +18,8 @@
     <a href="https://linkedin.com/in/edicarlos-filho-6123a72ab">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="mailto:edicarlosmfilho@gmail.com">
-      <img src="https://img.shields.io/badge/Email-edicarlosmfilho%40gmail.com-238636?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <a href="mailto:edicarlosmfilho@gmail.com" title="edicarlosmfilho@gmail.com">
+      <img src="https://img.shields.io/badge/-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </p>
 
@@ -71,7 +71,7 @@
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>🧬 <a href="https://github.com/IsolDreamboy/bio-evolution-sim">bio-evolution-sim</a></h3>
+      <h3>🧬 <a href="https://github.com/IsolDreamboy/IYD-complex-society-simulator">IYD — Bioenergetic & Evolutionary Sim</a></h3>
       <p>
         <img src="https://img.shields.io/badge/Release-v0.1.0--baseline-1F6FEB?style=flat-square" alt="Release" />
         <img src="https://img.shields.io/badge/Compute-Vectorized_NumPy-013243?style=flat-square" alt="Compute" />
@@ -92,4 +92,16 @@
 
 ### 🏗️ Production & Institutional Experience (Private Systems)
 
-> *Due to institutional and client confidentiality,
+> *Due to institutional and client confidentiality, source code for production systems below remains private:*
+
+- **Financial & Resource Management (`SGFR`):** Architected and maintained backend modules and RESTful APIs in **PHP / Laravel** and **PostgreSQL** for financial workflow automation.
+- **Operational & Attendance Tracking (`Ponto Estágio`):** Designed and built an end-to-end administrative tracking platform from scratch, standardizing institutional UI/UX guidelines (`Layout PMPR`).
+- **Containerized AI Pipelines:** Engineered reproducible **Python / Docker** inference services with strict schema validation and automated regression testing.
+
+---
+
+### 📊 GitHub Telemetry
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=IsolDreamboy&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideNums=C9D1D9&currStreakNum=FFFFFF&dates=8B949E&sideLabels=8B949E" alt="GitHub Streak" />
+</div>
