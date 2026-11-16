@@ -10,16 +10,16 @@
     <sub>B.Sc. Computer Science (2024–2028) • Curitiba, Brazil 🇧🇷</sub>
   </p>
 
-  <!-- Links Rápidos (Substitua o LinkedIn/Email pelos seus reais) -->
+  <!-- Links Reais Preenchidos -->
   <p>
     <a href="https://github.com/IsolDreamboy?tab=repositories">
       <img src="https://img.shields.io/badge/Repositories-Explore-161B22?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
     </a>
-    <a href="https://linkedin.com/in/seu-usuario-aqui">
+    <a href="https://linkedin.com/in/edicarlos-filho-6123a72ab">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="mailto:seu-email@dominio.com">
-      <img src="https://img.shields.io/badge/Contact-Email_Me-238636?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <a href="https://github.com/IsolDreamboy">
+      <img src="https://img.shields.io/github/followers/IsolDreamboy?label=Followers&style=flat-square&color=238636&logo=github&logoColor=white" alt="Followers" />
     </a>
   </p>
 
@@ -103,6 +103,5 @@
 ### 📊 GitHub Telemetry
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=IsolDreamboy&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsolDreamboy&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=IsolDreamboy&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideNums=C9D1D9&currStreakNum=FFFFFF&dates=8B949E&sideLabels=8B949E" alt="GitHub Streak" />
 </div>
