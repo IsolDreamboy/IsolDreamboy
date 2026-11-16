@@ -12,11 +12,11 @@
 
   <!-- Links Reais Preenchidos -->
   <p>
-    <a href="https://github.com/IsolDreamboy?tab=repositories">
-      <img src="https://img.shields.io/badge/Repositories-Explore-161B22?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+    <a href="https://github.com/IsolDreamboy?tab=repositories" title="GitHub">
+      <img src="https://img.shields.io/badge/-161B22?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
     </a>
-    <a href="https://linkedin.com/in/edicarlos-filho-6123a72ab">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <a href="https://linkedin.com/in/edicarlos-filho-6123a72ab" title="LinkedIn">
+      <img src="https://img.shields.io/badge/-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:edicarlosmfilho@gmail.com" title="edicarlosmfilho@gmail.com">
       <img src="https://img.shields.io/badge/-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
@@ -71,7 +71,7 @@
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>🧬 <a href="https://github.com/IsolDreamboy/IYD-complex-society-simulator">IYD — Bioenergetic & Evolutionary Sim</a></h3>
+      <h3>🧬 <a href="https://github.com/IsolDreamboy/bio-evolution-sim">bio-evolution-sim — Bioenergetic & Evolutionary Sim</a></h3>
       <p>
         <img src="https://img.shields.io/badge/Release-v0.1.0--baseline-1F6FEB?style=flat-square" alt="Release" />
         <img src="https://img.shields.io/badge/Compute-Vectorized_NumPy-013243?style=flat-square" alt="Compute" />
