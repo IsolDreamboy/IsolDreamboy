@@ -71,18 +71,18 @@
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>🧬 <a href="https://github.com/IsolDreamboy/bio-evolution-sim">bio-evolution-sim — Bioenergetic & Evolutionary Sim</a></h3>
+      <h3>🧬 <a href="https://github.com/IsolDreamboy/IYD-complex-society-simulator">bio-evolution-sim — Bioenergetic & Evolutionary Sim</a></h3>
       <p>
-        <img src="https://img.shields.io/badge/Release-v0.1.0--baseline-1F6FEB?style=flat-square" alt="Release" />
+        <img src="https://img.shields.io/badge/Release-v1.0.0-1F6FEB?style=flat-square" alt="Release" />
         <img src="https://img.shields.io/badge/Compute-Vectorized_NumPy-013243?style=flat-square" alt="Compute" />
       </p>
       <p>
-        Computational ecology simulator modeling continuous functional traits and allometric scaling laws (<em>Kleiber's Law</em>, M<sup>0.75</sup>) across seasonal environments.
+        Agent-based model where body size evolves from energy balance alone — allometric scaling laws (<em>Kleiber's Law</em>, M<sup>0.75</sup>), seasonal famine and heat exchange, with no climate rule in the code.
       </p>
       <ul>
-        <li><strong>Data Layout:</strong> Cache-friendly <em>Structure of Arrays</em> (SoA) engine in pure vectorized <code>NumPy</code>.</li>
-        <li><strong>Emergent Speciation:</strong> Unsupervised niche clustering via <code>DBSCAN</code> over normalized phenotypic space.</li>
-        <li><strong>Rigor:</strong> Surviving-lineage fitness validation and parameter sensitivity sweeps in <code>pytest</code>.</li>
+        <li><strong>Results:</strong> cold selects larger bodies (Spearman ρ = −0.93) and so does seasonality (ρ = +0.84), robust in 81/81 parameter combinations.</li>
+        <li><strong>Engine:</strong> <em>Structure of Arrays</em> population loop in vectorized <code>NumPy</code> — competition, mortality, mutation.</li>
+        <li><strong>Rigor:</strong> 10 <code>pytest</code> tests, multi-seed experiments, documented limitations and one-command reproduction.</li>
       </ul>
     </td>
   </tr>
