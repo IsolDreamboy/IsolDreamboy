@@ -61,4 +61,49 @@
       <h3>🩺 <a href="https://github.com/IsolDreamboy/Nini">Nini — Clinical Triage Engine</a></h3>
       <p>
         <img src="https://img.shields.io/badge/Status-Active_Development-238636?style=flat-square" alt="Status" />
-        <img src="
+        <img src="https://img.shields.io/badge/Architecture-Actor--Critic_Graph-8957E5?style=flat-square" alt="Architecture" />
+      </p>
+      <p>
+        Deterministic clinical decision-support pipeline implementing the <strong>Manchester Triage System</strong>. Built to eliminate LLM hallucinations in safety-critical flows.
+      </p>
+      <ul>
+        <li><strong>Orchestration:</strong> Stateful Actor-Critic loop in <code>LangGraph</code> with conservative human escalation fallbacks.</li>
+        <li><strong>Guardrails:</strong> Hardened <code>Pydantic</code> output contracts enforcing valid clinical discriminators and priority tiers.</li>
+        <li><strong>Runtime:</strong> Air-gapped local inference via containerized <code>Ollama</code> & <code>Docker</code>.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧬 <a href="https://github.com/IsolDreamboy/IYD-complex-society-simulator">bio-evolution-sim — Bioenergetic & Evolutionary Sim</a></h3>
+      <p>
+        <img src="https://img.shields.io/badge/Release-v1.0.0-1F6FEB?style=flat-square" alt="Release" />
+        <img src="https://img.shields.io/badge/Compute-Vectorized_NumPy-013243?style=flat-square" alt="Compute" />
+      </p>
+      <p>
+        Agent-based model where body size evolves from energy balance alone — allometric scaling laws (<em>Kleiber's Law</em>, M<sup>0.75</sup>), seasonal famine and heat exchange, with no climate rule in the code.
+      </p>
+      <ul>
+        <li><strong>Results:</strong> cold selects larger bodies (Spearman ρ = −0.93) and so does seasonality (ρ = +0.84), robust in 81/81 parameter combinations.</li>
+        <li><strong>Engine:</strong> <em>Structure of Arrays</em> population loop in vectorized <code>NumPy</code> — competition, mortality, mutation.</li>
+        <li><strong>Rigor:</strong> 10 <code>pytest</code> tests, multi-seed experiments, documented limitations and one-command reproduction.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🏗️ Production & Institutional Experience (Private Systems)
+
+> *Due to institutional and client confidentiality, source code for production systems below remains private:*
+
+- **Financial & Resource Management (`SGFR`):** Architected and maintained backend modules and RESTful APIs in **PHP / Laravel** and **PostgreSQL** for financial workflow automation.
+- **Operational & Attendance Tracking (`Ponto Estágio`):** Designed and built an end-to-end administrative tracking platform from scratch, standardizing institutional UI/UX guidelines (`Layout PMPR`).
+- **Containerized AI Pipelines:** Engineered reproducible **Python / Docker** inference services with strict schema validation and automated regression testing.
+
+---
+
+### 📊 GitHub Telemetry
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=IsolDreamboy&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideNums=C9D1D9&currStreakNum=FFFFFF&dates=8B949E&sideLabels=8B949E" alt="GitHub Streak" />
+</div>
