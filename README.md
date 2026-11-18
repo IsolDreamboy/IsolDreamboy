@@ -73,7 +73,7 @@
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>🧬 <a href="https://github.com/IsolDreamboy/IYD-complex-society-simulator">bio-evolution-sim — Bioenergetic & Evolutionary Sim</a></h3>
+      <h3>🧬 <a href="https://github.com/IsolDreamboy/bio-evolution-sim">bio-evolution-sim — Bioenergetic & Evolutionary Sim</a></h3>
       <p>
         <img src="https://img.shields.io/badge/Release-v1.0.0-1F6FEB?style=flat-square" alt="Release" />
         <img src="https://img.shields.io/badge/Compute-Vectorized_NumPy-013243?style=flat-square" alt="Compute" />
